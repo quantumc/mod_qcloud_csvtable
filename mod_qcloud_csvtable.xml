@@ -7,8 +7,8 @@
   <license>GNU/GPL: http://www.gnu.org/copyleft/gpl.html</license>
   <authorEmail>info@quantumcloud.com</authorEmail>
   <authorUrl>www.quantumcloud.com</authorUrl>
-  <version>1.0</version>
-  <description>Create and display usual HTML table in your joomla website with any CSV data .</description>
+  <version>1.0.1</version>
+  <description>Create and display usual HTML table in your joomla website from any CSV file .</description>
   <files>
     <filename module="mod_qcloud_csvtable">mod_qcloud_csvtable.php</filename>
     <filename>csv_parser.php</filename>
